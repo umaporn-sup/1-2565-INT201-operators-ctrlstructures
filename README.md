@@ -1,1 +1,1 @@
-# 1-2565-INT201-operators-ctrlstructures
+# 1-2565-INT201-operators-control-structures
